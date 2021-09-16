@@ -5,3 +5,4 @@ Working my way through TOP. Already have learned HTML CSS and JS but am putting 
 This is a simple recipe webpage.
 
 skills fortified: 
+-git: init, clone, add, commit, status, log, push origin main
