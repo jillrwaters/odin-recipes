@@ -8,3 +8,8 @@
 .recipeTitle {
 
 }
+
+.mainTitle, 
+.recipeTitle {
+    text-align:center;
+}
