@@ -1,8 +1,11 @@
 * {
     background-color: black;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .mainTitle {
+    text-decoration: underline;
+    font-size: 50px;
 
 }
 .recipeTitle {
@@ -12,4 +15,22 @@
 .mainTitle, 
 .recipeTitle {
     text-align:center;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: teal;
+    font-size:2em;
+    
+}
+h2 {
+    color: teal;
+}
+.main {
+
+}
+ul.main {
+    font-size:25px;
+    
 }
