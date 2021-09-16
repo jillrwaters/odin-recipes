@@ -9,3 +9,6 @@ skills fortified:
 -habit of committing early and often
 -linking images with correct file path
 -file structure/organization
+
+
+ADDING CSS -->  purely for practice and not trying to make anything look pretty
