@@ -1,22 +1,27 @@
 .main {
     display: grid;
     grid-template-columns: 600px auto;
-    grid-template-rows: 1fr 1fr;
-    width: auto;
+    margin: auto;
 
 }
  /* TITLE AND PICTURE  */
 .title {
+    width: 600px;
     display: flex;
     flex-direction: column;
     grid-row: 1/3;
     
 }
+.title > h2 {
+    
+}
 img {
-    width: 500px;
+   
 }
  /* RECIPE TEXT */
- .recipe-text {}
+.recipe-text {
+    width: 600px;
+}
 .description {}
 .ingredients {}
 .steps {}
