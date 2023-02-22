@@ -16,6 +16,7 @@ img {
     width: 500px;
 }
  /* RECIPE TEXT */
+ .recipe-text {}
 .description {}
 .ingredients {}
 .steps {}
