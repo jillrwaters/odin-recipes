@@ -1,7 +1,11 @@
-.main {
-    display: grid;
-    grid-template-columns: 600px auto;
+body {
     margin: auto;
+}
+.main {
+    display: flex;
+   
+    
+    
 
 }
  /* TITLE AND PICTURE  */
@@ -9,7 +13,7 @@
     width: 600px;
     display: flex;
     flex-direction: column;
-    grid-row: 1/3;
+    
     
 }
 .title > h2 {
@@ -21,6 +25,9 @@ img {
  /* RECIPE TEXT */
 .recipe-text {
     width: 600px;
+    display: flex;
+    flex-direction: column;
+    
 }
 .description {}
 .ingredients {}
