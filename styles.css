@@ -1,11 +1,11 @@
 .main {
     display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(3, 1fr)
+    grid-template-columns: 600px auto;
+    grid-template-rows: 1fr 1fr;
 
 }
 img {
-width: 500px;
+    width: 500px;
 }
 .title-description {
     display: flex;
@@ -14,8 +14,9 @@ width: 500px;
     
 }
 .ingredients {
-    grid-row: 1/3;
+    border: 1px solid black;
+    /* grid-row: 1/3; */
 }
 .steps {
-    grid-row: 2/ span 1;
+    /* grid-row: 2/ span 1; */
 }
