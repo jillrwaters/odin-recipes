@@ -1,8 +1,21 @@
 .main {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, 1fr)
 
 }
-img {}
-.title-description {}
-.ingredients {}
-.steps {}
+img {
+width: 500px;
+}
+.title-description {
+    display: flex;
+    flex-direction: column;
+    grid-row: 1/3;
+    
+}
+.ingredients {
+    grid-row: 1/3;
+}
+.steps {
+    grid-row: 2/ span 1;
+}
