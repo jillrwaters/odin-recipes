@@ -1,35 +1,32 @@
 body {
     margin: auto;
 }
+
 .main {
     display: flex;
-   
-    
-    
+    width: 100%;
 
 }
- /* TITLE AND PICTURE  */
+
+/* TITLE AND IMG  */
 .title {
-    width: 600px;
+    width: 40%;
     display: flex;
     flex-direction: column;
-    
-    
+
+
 }
-.title > h2 {
-    
-}
-img {
-   
-}
- /* RECIPE TEXT */
+
+/* RECIPE TEXT */
 .recipe-text {
     width: 600px;
     display: flex;
     flex-direction: column;
-    
+
 }
+
 .description {}
+
 .ingredients {}
+
 .steps {}
-    
