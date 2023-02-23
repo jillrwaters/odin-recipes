@@ -12,3 +12,7 @@ skills fortified:
 
 
 ADDING CSS -->  purely for practice and not trying to make anything look pretty
+
+--------------------------------------------
+UPDATE 2/23
+removing most of the css styles since they were ugly and the project doesn't require it. moving on to pick up where I left off 2 years ago.
